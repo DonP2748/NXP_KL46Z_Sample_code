@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "/home/donp/NXP/MCUXpresso_11.9.1_2170/workspace/frdmkl46z_phucth_led/Debug/frdmkl46z_phucth_led.hex"
+qc
+
+qc

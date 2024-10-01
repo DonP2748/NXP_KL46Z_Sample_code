@@ -1,0 +1,9 @@
+../source/driver/uart.c:47:6:uart_init	8	static
+../source/driver/uart.c:63:6:uart_config_src_pin	16	static
+../source/driver/uart.c:71:6:uart_config_src_clock	16	static
+../source/driver/uart.c:77:6:uart_write_byte	16	static
+../source/driver/uart.c:83:9:uart_read_byte	8	static
+../source/driver/uart.c:91:6:uart_tranceive_enable	16	static
+../source/driver/uart.c:102:13:mcgirclk_uart0_config	8	static
+../source/driver/uart.c:116:13:uart_set_baud_rate	32	static
+../source/driver/uart.c:126:16:get_osr_by_baud	16	static

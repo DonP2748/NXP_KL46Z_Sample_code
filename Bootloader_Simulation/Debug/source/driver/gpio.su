@@ -1,0 +1,5 @@
+../source/driver/gpio.c:4:6:gpio_clock_init	16	static
+../source/driver/gpio.c:9:6:gpio_set_dir	16	static
+../source/driver/gpio.c:19:6:gpio_set_pin	16	static
+../source/driver/gpio.c:29:9:gpio_get_pin	16	static
+../source/driver/gpio.c:34:6:gpio_toggle_pin	16	static

@@ -1,0 +1,12 @@
+../source/service/service.c:65:6:data_receive_callback	16	static
+../source/service/service.c:83:6:process_firmware_data	8	static
+../source/service/service.c:110:9:process_firmware_get_status	8	static
+../source/service/service.c:115:6:process_firmware_set_status	16	static
+../source/service/service.c:121:6:process_register_firmware_data_done_cb	16	static
+../source/service/service.c:127:6:process_srec_data_handler	24	static
+../source/service/service.c:138:13:process_firmware_data_download	296	static
+../source/service/service.c:172:13:process_firmware_data_moving	296	static
+../source/service/service.c:195:13:process_firmware_data_done	8	static
+../source/service/service.c:203:13:download_firmware_data_start	8	static
+../source/service/service.c:209:13:download_firmware_data_stop	8	static
+../source/service/service.c:218:13:write_flash_data	24	static

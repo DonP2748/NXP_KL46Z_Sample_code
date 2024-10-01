@@ -1,0 +1,8 @@
+../source/service/srec_parsing.c:47:9:srec_parse_line	48	static
+../source/service/srec_parsing.c:96:9:srec_is_file_valid	8	static
+../source/service/srec_parsing.c:102:16:hexCharToValue	16	static
+../source/service/srec_parsing.c:110:16:hexStringToValue	48	static
+../source/service/srec_parsing.c:134:16:check_record_type	24	static
+../source/service/srec_parsing.c:227:16:check_sum	24	static
+../source/service/srec_parsing.c:237:16:get_address_from_style	40	static
+../source/service/srec_parsing.c:260:17:fetching_data_from_buff	24	static

@@ -1,0 +1,6 @@
+/home/donp/NXP/MCUXpresso_11.9.1_2170/workspace/frdmkl46z_phucth_assigment3/CMSIS/core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+../source/driver/adc.c:14:6:adc_init	16	static
+../source/driver/adc.c:32:10:adc_conversion_read	16	static
+../source/driver/adc.c:39:10:adc_read	16	static
+../source/driver/adc.c:44:6:ADC0_IRQHandler	8	static
+../source/driver/adc.c:53:13:adc_internal_config	8	static

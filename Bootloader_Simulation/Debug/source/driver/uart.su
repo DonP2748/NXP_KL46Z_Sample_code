@@ -1,0 +1,13 @@
+/home/donp/NXP/MCUXpresso_11.9.1_2170/workspace/frdmkl46z_phucth_bootloader/CMSIS/core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+../source/driver/uart.c:53:6:uart_init	8	static
+../source/driver/uart.c:73:6:uart_register_data_recv_cb	16	static
+../source/driver/uart.c:78:6:uart_config_src_pin	16	static
+../source/driver/uart.c:86:6:uart_config_src_clock	16	static
+../source/driver/uart.c:92:6:uart_write_byte	16	static
+../source/driver/uart.c:98:9:uart_read_byte	8	static
+../source/driver/uart.c:106:6:uart_tranceive_enable	16	static
+../source/driver/uart.c:117:6:UART0_IRQHandler	16	static
+../source/driver/uart.c:126:6:uart_enable_recv_interrupts	16	static
+../source/driver/uart.c:141:13:mcgirclk_uart0_config	8	static
+../source/driver/uart.c:155:13:uart_set_baud_rate	32	static
+../source/driver/uart.c:165:16:get_osr_by_baud	16	static

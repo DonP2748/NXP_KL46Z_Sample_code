@@ -1,0 +1,5 @@
+../source/peripheral/led.c:16:6:led_init	8	static
+../source/peripheral/led.c:28:6:led1_set_value	16	static
+../source/peripheral/led.c:33:6:led2_set_value	16	static
+../source/peripheral/led.c:39:6:led1_toggle_value	8	static
+../source/peripheral/led.c:44:6:led2_toggle_value	8	static

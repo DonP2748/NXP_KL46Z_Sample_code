@@ -1,0 +1,2 @@
+../source/led_blinky.c:14:6:PORTC_PORTD_IRQHandler	8	static
+../source/led_blinky.c:19:6:main	8	static

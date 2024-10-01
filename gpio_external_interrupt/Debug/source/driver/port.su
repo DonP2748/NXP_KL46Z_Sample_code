@@ -1,0 +1,3 @@
+../source/driver/port.c:15:6:port_ext_int_config	24	static
+../source/driver/port.c:21:6:port_mode_config	24	static
+../source/driver/port.c:27:6:port_res_pull_config	24	static

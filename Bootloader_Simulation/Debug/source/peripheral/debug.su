@@ -1,0 +1,2 @@
+../source/peripheral/debug.c:12:6:debug_log_init	8	static
+../source/peripheral/debug.c:19:6:debug_log_printf	280	static

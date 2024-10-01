@@ -1,0 +1,2 @@
+../source/main.c:14:6:PORTC_PORTD_IRQHandler	8	static
+../source/main.c:19:6:main	8	static
